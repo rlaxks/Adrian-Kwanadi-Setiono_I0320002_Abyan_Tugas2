@@ -1,6 +1,6 @@
 # Adrian-Kwanadi-Setiono_I0320002_Abyan_Tugas2
 
-##Daftar Isi:
+## Daftar Isi:
 1. Exercise 2.1
 2. Exercise 2.2
 3. Exercise 2.3
