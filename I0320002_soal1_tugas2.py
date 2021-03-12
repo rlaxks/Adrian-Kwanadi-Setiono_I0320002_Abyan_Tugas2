@@ -31,7 +31,7 @@ print("Luas Lingkaran: ", luas_lingkaran)
 import math
 
 #menampilkan informasi program
-print("Luas Permukaan Program")
+print("Luas Permukaan Kubus")
 
 #input nilai sisi kubus
 s = float(input("Masukkan sisi kubus: "))
